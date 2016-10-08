@@ -19,11 +19,11 @@
         }
     ],
     "require": {
-        "illuminate/support": "~5.1",
+        "illuminate/support": "~5.3",
         "php" : "~5.5|~7.0"
     },
     "require-dev": {
-        "laravel/framework": "5.1",
+        "laravel/framework": "5.3.*",
         "phpunit/phpunit" : "4.*",
         "scrutinizer/ocular": "~1.1",
         "squizlabs/php_codesniffer": "~2.3"
